@@ -33,7 +33,7 @@ for /f "delims=" %%i in (ZipList.dat) do (
 )
 rem DEL ZipList.dat
 
-echo 解凍が完了しました
+echo 解凍が無事なく完了しました
 
 PAUSE
 EXIT
