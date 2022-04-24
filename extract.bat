@@ -37,3 +37,5 @@ echo 解凍が無事なく完了しました
 
 PAUSE
 EXIT
+
+rem addingtext
